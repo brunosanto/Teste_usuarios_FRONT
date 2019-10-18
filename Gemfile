@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'capybara', '2.18.0'
+gem 'cucumber', '3.1.2'
+gem 'faker', '1.9.1'
+gem 'ffaker', '2.9.0'
+gem 'httparty', '0.16.2'
+gem 'rspec', '3.7.0'
+gem 'page-object', '2.2.4'
+gem 'selenium-webdriver', '3.141.0'
+gem 'site_prism', '2.11'
+gem 'rake', '12.3.1'
